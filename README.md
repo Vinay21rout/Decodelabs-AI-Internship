@@ -17,11 +17,11 @@
 
 | Field        | Details                          |
 |--------------|----------------------------------|
-| **Name**     | *(Your Name)*                    |
+| **Name**     | Vinay Kumar Rout                 |
 | **Role**     | AI Intern                        |
 | **Company**  | DecodeLabs                       |
 | **Domain**   | Artificial Intelligence / Python |
-| **Duration** | *(Start Date)* → *(End Date)*    |
+| **Duration** | *(3 july)* → *(3 Aug)*           |
 | **Stack**    | Python, NLP, ML, AI              |
 
 ---
